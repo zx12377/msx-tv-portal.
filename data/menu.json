@@ -1,0 +1,25 @@
+{
+  "headline": "My TV Portal",
+  "menu": [
+    {
+      "icon": "smart-display",
+      "label": "YouTube",
+      "action": "link:window:https://www.youtube.com/"
+    },
+    {
+      "icon": "music-note",
+      "label": "Spotify",
+      "action": "link:window:https://open.spotify.com/"
+    },
+    {
+      "icon": "wb-sunny",
+      "label": "Weather",
+      "action": "link:window:https://www.google.com/search?q=weather"
+    },
+    {
+      "icon": "games",
+      "label": "Games",
+      "action": "link:window:https://html5games.com/"
+    }
+  ]
+}
