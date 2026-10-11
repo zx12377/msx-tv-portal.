@@ -1,0 +1,8 @@
+{
+  "name": "My TV Portal",
+  "version": "1.0.0",
+  "parameter": "menu:https://zx12377.github.io/msx-tv-portal/data/menu.json",
+  "launcher": {
+    "icon": "pages"
+  }
+}
